@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDAaBSgfm8JTSzAARHvQHvWY1kJ7jrqIWg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>593688563908</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>in.bitcode.Firebase-LoginPage-By-Kamryn-Ohly</string>
+	<key>PROJECT_ID</key>
+	<string>loginpage-b14ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loginpage-b14ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:593688563908:ios:e9c131013c08d5321a7991</string>
+</dict>
+</plist>
